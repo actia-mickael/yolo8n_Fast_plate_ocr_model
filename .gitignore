@@ -1,0 +1,6 @@
+runs/
+*.pt
+.ipynb_checkpoints/
+License-Plate-Recognition-4/
+model_old/
+tests/
